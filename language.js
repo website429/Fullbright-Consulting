@@ -20,7 +20,7 @@ navContact:"Contact",
 
 heroTitle:"Helping Ethiopian Businesses Grow Through Innovation",
 
-heroText:"BAYE Agribusiness group empowers organizations and entrepreneurs in Ethiopia to achieve sustainable growth by providing world-class consulting, digital, and business development services tailored to local needs.",
+heroText:"Fullbright Consultancy group empowers organizations and entrepreneurs in Ethiopia to achieve sustainable growth by providing world-class consulting, digital, and business development services tailored to local needs.",
 
 heroButton:"Contact Us",
 
@@ -28,7 +28,7 @@ aboutDesc:"A trusted partner in Ethiopian business development, innovation, and 
 
 whoWeAre:"Who We Are",
 
-whoWeAreText:"BAYE Agribusiness is a premier business development and consulting firm based in Mekele, Tigray, Ethiopia. Our dynamic team is dedicated to guiding startups and established companies towards success, efficiency, and sustainable growth in the local and global market.",
+whoWeAreText:"Fullbright Consultancy is a premier business development and consulting firm based in Mekele, Tigray, Ethiopia. Our dynamic team is dedicated to guiding startups and established companies towards success, efficiency, and sustainable growth in the local and global market.",
 
 missionTitle:"Our Mission",
 missionText:"To empower Ethiopian businesses by delivering innovative, reliable, and impactful business development solutions and consulting services.",
@@ -49,8 +49,8 @@ service4:"Digital Marketing",
 service5:"Financial Consulting",
 service6:"Professional Training",
 
-whyTitle:"Why BAYE Agribusiness?",
-whyDesc:"BAYE Agribusiness delivers strategic business value with proven results and innovative approaches.",
+whyTitle:"Why Fullbright Consultancy?",
+whyDesc:"Fullbright Consultancy delivers strategic business value with proven results and innovative approaches.",
 
 feature1:"Experienced Team",
 feature2:"Affordable Solutions",
@@ -73,11 +73,11 @@ portfolio4:"Startup Growth",
 testimonialTitle:"Testimonials",
 testimonialDesc:"Hear from those we've helped grow.",
 
-testimonial1:"BAYE Agribusiness's strategic advice has been a game-changer for our startup. Their deep understanding of the Ethiopian market enabled us to launch rapidly and scale with confidence.",
+testimonial1:"Fullbright Consultancy's strategic advice has been a game-changer for our startup. Their deep understanding of the Ethiopian market enabled us to launch rapidly and scale with confidence.",
 
-testimonial2:"BAYE Agribusiness handled our business registration and compliance seamlessly. Their professionalism and swift service let us focus on growing our business.",
+testimonial2:"Fullbright Consultancy handled our business registration and compliance seamlessly. Their professionalism and swift service let us focus on growing our business.",
 
-testimonial3:"BAYE Agribusiness's digital marketing team elevated our brand and brought measurable results. We saw a huge increase in engagement and conversions.",
+testimonial3:"Fullbright Consultancy's digital marketing team elevated our brand and brought measurable results. We saw a huge increase in engagement and conversions.",
 faqTitle:"Frequently Asked Questions",
 faqDesc:"Find answers to common questions about our services.",
 
@@ -100,7 +100,7 @@ contactTitle:"Contact Us",
 contactDesc:"We are here to help. Reach out to us through the channels below!",
 
 officeTitle:"Our Office",
-officeAddress:"📍 Michaels, Mekele, Tigray",
+officeAddress:"📍 Axum Hotel, Mekele, Tigray",
 
 quickLinks:"Quick Links",
 
@@ -124,26 +124,26 @@ navFaq:"ብዙሕ ግዜ ዝሕተቱ ሕቶታት",
 
 navContact:"ርኸቡና",
 
-heroTitle:"ንኢትዮጵያዊ ትካላት ብተገዳስነት ክዓብዩ ንሕግዝ",
+heroTitle:"ንኢትዮጵያዊያን ትካላት ክዓብዩ ብተገዳስነት ንሕግዝ",
 
-heroText:"BAYE Agribusiness ብሞያዊ ኮንሳልቲንግ፣ ዲጂታል ፍታሕን ልምዓት ንግድን ንውድባትን ነጋዶን ናብ ዘላቒ ዕብየት ይመርሕ።",
+heroText:"Fullbright Consultancy ብሞያዊ ኮንሳልቲንግ፣ ዲጂታል ፍታሕን ልምዓት ንግድን ንውድባትን ነጋዶን ናብ ዘላቒ ዕብየት ይመርሕ።",
 
 heroButton:"ርኸቡና",
 
-aboutDesc:"ኣብ ልምዓት ንግዲ፣ ሓዳስነትን ምኽርን ዝእመን መጋበርቲ።",
+aboutDesc:"ኣብ ልምዓት ንግዲ፣ ብተገዳስነት ምኽርን ዝእመን መጋበርቲ።",
 
 whoWeAre:"ንሕና መን ኢና",
 
-whoWeAreText:"BAYE Agribusiness ኣብ መቐለ፣ ትግራይ፣ ኢትዮጵያ ዝመሰረተ ናይ ልምዓት ንግዲን ኮንሳልቲንግን ትካል እዩ። ብብቕዓት ዝተሞልአ ጉጅለና ንሓደሽቲን ዝተመስረቱን ትካላት ናብ ዘላቒ ዕብየት ይመርሕ።",
+whoWeAreText:"Fullbright Consultancy ኣብ መቐለ፣ ትግራይ፣ ኢትዮጵያ ዝመሰረተ ናይ ልምዓት ንግዲን ኮንሳልቲንግን ትካል እዩ። ብብቕዓት ዝተሞልአ ጉጅለና ንሓደሽቲን ዝተመስረቱን ትካላት ናብ ዘላቒ ዕብየት ይመርሕ።",
 
 missionTitle:"ተልእኾና",
-missionText:"ብሓዳስነትን ብሞያዊ ምኽርን ንኢትዮጵያዊ ትካላት ምብርታዕ።",
+missionText:"ብተገዳስነት ብሞያዊ ምኽርን ንኢትዮጵያዊ ትካላት ምብርታዕ።",
 
 visionTitle:"ራእይና",
 visionText:"ኣብ ኢትዮጵያ ቀዳማይ መሪሕ ትካል ልምዓት ንግዲ ምዃን።",
 
 valuesTitle:"መበገሲ ክብርታትና",
-valuesText:"ቅንዕና፣ ሓዳስነት፣ ትኹረት ኣብ ዓሚል፣ ብልጫ፣ ምትሕብባርን ንኣካባቢ ልምዓት ቁርጽነትን።",
+valuesText:"ቅንዕና፣ ተገዳስነት፣ ትኹረት ኣብ ዓሚል፣ ብልጫ፣ ምትሕብባርን ንኣካባቢ ልምዓት ቁርጽነትን።",
 
 servicesTitle:"ኣገልግሎታትና",
 servicesDesc:"ንትካላት ንኽዕብዩ ዝሕግዙ ምሉእ ፍታሓት ንግዲ።",
@@ -155,17 +155,17 @@ service4:"ዲጂታል ማርኬቲንግ",
 service5:"ፋይናንሳዊ ምኽሪ",
 service6:"ሞያዊ ስልጠና",
 
-whyTitle:"ስለምንታይ BAYE Agribusiness?",
-whyDesc:"ብውጽኢትን ሓዳስነትን ዝተደገፈ ስትራቴጂካዊ ዋጋ ንግዲ ንቕርብ።",
+whyTitle:"ስለምንታይ Fullbright Consultancy?",
+whyDesc:"ብውጽኢትን ብተገዳስነት ዝተደገፈ ስትራቴጂካዊ ዋጋ ንግዲ ንቕርብ።",
 
-feature1:"ተመኩሮ ዘለዎም ሞያውያን",
+feature1:"ተመኩሮ ዘለዎም ሰብ ሞያታት",
 feature2:"ተመጣጣኒ ዋጋ",
 feature3:"ቅልጡፍ ኣገልግሎት",
 feature4:"ብዓማዊል ዝእመን",
 
 stat1:"ዝተገልገሉ ትካላት",
 stat2:"ዕጉባት ዓማዊል",
-stat3:"ሞያውያን ክኢላታት",
+stat3:"ሰብ ሞያታት",
 stat4:"ዓመታት ተመኩሮ",
 
 portfolioTitle:"ስራሕና",
@@ -179,7 +179,7 @@ portfolio4:"ዕብየት ሓድሽ ንግዲ",
 testimonialTitle:"ርእይቶታት",
 testimonialDesc:"ካብ ዓማዊልና ዝተዋህበ ርእይቶ።",
 
-testimonial1:"ምኽሪ BAYE Agribusiness ንንግድና ብጣዕሚ ጠቓሚ ነይሩ።",
+testimonial1:"ምኽሪ Fullbright Consultancy ንንግድና ብጣዕሚ ጠቓሚ ነይሩ።",
 
 testimonial2:"ምዝገባ ንግዲና ብቕልጡፍን ብሞያን ኣካይዶም።",
 
@@ -206,11 +206,10 @@ contactTitle:"ርኸቡና",
 contactDesc:"ንምሕጋዝ ኣብዚ ኣለና። ብዝደለኹምዎ መገዲ ርኸቡና።",
 
 officeTitle:"ቤት ጽሕፈትና",
-officeAddress:"📍 ሚካኤልስ፣ መቐለ፣ ትግራይ",
+officeAddress:"📍 ኣክሱም ሆቴል፣ መቐለ፣ ትግራይ",
 
 quickLinks:"ቀልጢፎም ዝርከቡ ሊንክታት",
 
-copyright:"BAYE Agribusiness. ኩሉ መሰላት ዝተሓለወ እዩ።"
 }
 
 
